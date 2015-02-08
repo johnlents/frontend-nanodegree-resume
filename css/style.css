@@ -15,7 +15,7 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: #080D3B;
   line-height: 48px;
   display: inline;
 }
@@ -73,7 +73,7 @@ p {
 }
 
 a {
-  color: #1199C3;
+  color: #191f58;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -82,26 +82,26 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #F3F3F3;
+  color: #e4e4e4;
   line-height: 28px;
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: #080D3B;
   display: none;
 }
 
 .orange {
-  background-color: #F5AE23;
+  background-color: #080D3B;
 }
 
 .orange-text {
-  color: #F5AE23;
+  color: #080D3B;
 }
 
 .white-text {
   font-weight: bold;
-  color: #FFFFFF;
+  color: #e4e4e4;
 }
 
 .gray {
@@ -111,12 +111,12 @@ a {
 }
 
 .dark-gray {
-  background-color: #4A4A4A;
+  background-color: #496C89;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #496C89;
 }
 
 .flex-box {
@@ -164,6 +164,10 @@ img {
 
 span {
   padding: 5px;
+}
+
+.projpic {
+  width: 300px;
 }
 
 #letsConnect {
